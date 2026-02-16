@@ -1,0 +1,22 @@
+{
+  "version": "1.0",
+  "period": "2026-02",
+  "generatedAt": "2026-02-16T01:01:48.374Z",
+  "hash": {
+    "algorithm": "SHA-256",
+    "value": "cf3cba3c5f6669af39734d4c949012cca8b7c20281a75c7d7440713efd177d2c"
+  },
+  "metadata": {
+    "restaurants": 181,
+    "menuSnapshots": 409,
+    "dishes": 14375,
+    "beverages": 16738,
+    "allergenVerifications": 0,
+    "dishVariantGroups": 7243
+  },
+  "filter": {
+    "type": "cumulative",
+    "cutoffDate": "2026-03-01T00:00:00.000Z"
+  },
+  "note": null
+}

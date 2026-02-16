@@ -1,0 +1,22 @@
+{
+  "version": "1.0",
+  "period": "2026-01",
+  "generatedAt": "2026-02-16T01:01:28.589Z",
+  "hash": {
+    "algorithm": "SHA-256",
+    "value": "2a77037694034a2ec2b3afba7915bd677c52e5fb3bc50a8bf06c90243737c711"
+  },
+  "metadata": {
+    "restaurants": 109,
+    "menuSnapshots": 285,
+    "dishes": 9615,
+    "beverages": 10181,
+    "allergenVerifications": 0,
+    "dishVariantGroups": 4437
+  },
+  "filter": {
+    "type": "cumulative",
+    "cutoffDate": "2026-02-01T00:00:00.000Z"
+  },
+  "note": "Retroactive proof generated 2026-02-16. Data filtered by server-generated timestamps. Git commit date reflects actual generation date, not data period."
+}
